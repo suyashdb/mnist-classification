@@ -3,3 +3,6 @@ torchvision
 pytest
 numpy<2.0.0
 matplotlib
+flake8
+black
+isort
